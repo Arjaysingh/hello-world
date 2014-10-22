@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-just another repository
+Hello,
+I am new at GitHub.
